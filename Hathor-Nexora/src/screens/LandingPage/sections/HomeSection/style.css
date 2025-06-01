@@ -1,0 +1,227 @@
+.home-section {
+    height: 567px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1273px;
+  }
+  
+  .home-section .overlap-group {
+    height: 319px;
+    left: 0;
+    position: absolute;
+    top: 43px;
+    width: 1273px;
+  }
+  
+  .home-section .frame {
+    background-image: url(https://c.animaapp.com/hoP3W4bD/img/frame-6.gif);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 319px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1273px;
+  }
+  
+  .home-section .group {
+    height: 132px;
+    left: 150px;
+    position: relative;
+    top: 94px;
+    width: 1009px;
+  }
+  
+  .home-section .the-smartest-way-to {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 88px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 44px;
+    width: 1005px;
+  }
+  
+  .home-section .text-wrapper {
+    color: #000000;
+  }
+  
+  .home-section .span {
+    color: #cbcbcb;
+  }
+  
+  .home-section .div {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 44px;
+    left: 417px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+  }
+  
+  .home-section .navigation-newsroom {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1273px;
+  }
+  
+  .home-section .container {
+    -webkit-backdrop-filter: blur(10px) brightness(100%);
+    align-items: center;
+    align-self: stretch;
+    backdrop-filter: blur(10px) brightness(100%);
+    background-color: var(--applecomshark-70);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 52px;
+    padding: 15px 394px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .home-section .frame-2 {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    margin-left: -79.50px;
+    margin-right: -79.50px;
+    position: relative;
+    width: 644px;
+  }
+  
+  .home-section .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .home-section .frame-3 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 38px;
+    position: relative;
+  }
+  
+  .home-section .checkout {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .home-section .component-1 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 410px !important;
+  }
+  
+  .home-section .component-instance {
+    left: -1813px !important;
+    top: -377px !important;
+  }
+  
+  .home-section .component-1-instance {
+    left: -3302px !important;
+    top: -377px !important;
+  }
+  
+  .home-section .navigation-bar {
+    align-items: center;
+    background-color: #313131;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 0;
+    padding: 10px 68px;
+    position: absolute;
+    top: 0;
+    width: 1273px;
+  }
+  
+  .home-section .frame-4 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 215px;
+    justify-content: flex-end;
+    position: relative;
+    width: 100%;
+  }
+  
+  .home-section .frame-5 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 30px;
+    position: relative;
+  }
+  
+  .home-section .ellipse {
+    background-color: #d9d9d9;
+    border-radius: 11.5px;
+    height: 23px;
+    position: relative;
+    width: 23px;
+  }
+  
+  .home-section .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .home-section .frame-6 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 19px;
+    position: relative;
+  }
+  
+  .home-section .icon-sun-max {
+    background-image: url(https://c.animaapp.com/hoP3W4bD/img/vector.svg);
+    background-size: 100% 100%;
+    height: 17.56px;
+    position: relative;
+    width: 17.51px;
+  }
+  

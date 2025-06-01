@@ -1,0 +1,130 @@
+.compare {
+    height: 815px;
+    left: 0;
+    position: absolute;
+    top: 1305px;
+    width: 1273px;
+  }
+  
+  .compare .make-smarter-choices {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 88px;
+    left: 283px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 35px;
+  }
+  
+  .compare .comp-box {
+    background-color: #ffffff;
+    border-radius: 32px;
+    height: 641px;
+    left: 108px;
+    overflow: hidden;
+    position: absolute;
+    top: 174px;
+    width: 512px;
+  }
+  
+  .compare .text-wrapper-9 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 46px;
+    font-weight: 700;
+    height: 56px;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 62px;
+    width: 325px;
+  }
+  
+  .compare .checkout-5 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    height: 22px;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 40px;
+    white-space: nowrap;
+  }
+  
+  .compare .overlap-group-3 {
+    height: 495px;
+    left: 40px;
+    position: absolute;
+    top: 139px;
+    width: 401px;
+  }
+  
+  .compare .checkout-6 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    height: 22px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .compare .checkout-7 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    height: 484px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 11px;
+    width: 401px;
+  }
+  
+  .compare .comp-box-2 {
+    background-color: #ffffff;
+    border-radius: 32px;
+    height: 641px;
+    left: 663px;
+    overflow: hidden;
+    position: absolute;
+    top: 174px;
+    width: 512px;
+  }
+  
+  .compare .overlap {
+    height: 495px;
+    left: 37px;
+    position: absolute;
+    top: 130px;
+    width: 401px;
+  }
+  
+  .compare .checkout-8 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    height: 22px;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  

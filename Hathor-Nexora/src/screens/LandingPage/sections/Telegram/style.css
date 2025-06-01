@@ -1,0 +1,57 @@
+.telegram {
+    height: 801px;
+    left: 0;
+    position: absolute;
+    top: 3718px;
+    width: 1273px;
+  }
+  
+  .telegram .frame-12 {
+    height: 642px;
+    position: relative;
+    top: 53px;
+  }
+  
+  .telegram .your-AI-marketplace {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 44px;
+    left: 275px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+  }
+  
+  .telegram .text-wrapper-13 {
+    color: #ffffff;
+  }
+  
+  .telegram .text-wrapper-14 {
+    color: #cccccccc;
+  }
+  
+  .telegram .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    height: 18px;
+    left: 352px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    white-space: nowrap;
+  }
+  
+  .telegram .component-2 {
+    left: 109px !important;
+    position: absolute !important;
+    top: 126px !important;
+  }
+  
