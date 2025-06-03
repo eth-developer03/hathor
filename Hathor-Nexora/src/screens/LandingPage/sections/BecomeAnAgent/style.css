@@ -1,0 +1,52 @@
+.become-an-agent {
+    height: 749px;
+    left: 0;
+    position: absolute;
+    top: 2919px;
+    width: 1273px;
+  }
+  
+  .become-an-agent .overlap-2 {
+    height: 668px;
+    position: relative;
+    top: 53px;
+  }
+  
+  .become-an-agent .frame-10 {
+    height: 642px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1273px;
+  }
+  
+  .become-an-agent .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 44px;
+    left: 177px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+  }
+  
+  .become-an-agent .rectangle-2 {
+    background-color: #000000;
+    border-radius: 32px;
+    height: 638px;
+    left: 108px;
+    position: absolute;
+    top: 83px;
+    width: 1058px;
+  }
+  
+  .become-an-agent .component-3 {
+    left: 537px !important;
+    position: absolute !important;
+    top: 616px !important;
+  }
+  

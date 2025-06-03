@@ -1,0 +1,248 @@
+.explore-section {
+    height: 666px;
+    left: 8px;
+    position: absolute;
+    top: 622px;
+    width: 1273px;
+  }
+  
+  .explore-section .frame-7 {
+    height: 587px;
+    position: relative;
+    top: 58px;
+  }
+  
+  .explore-section .the-latest-take-a {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 44px;
+    left: 225px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+  }
+  
+  .explore-section .text-wrapper-4 {
+    color: #ffffff;
+  }
+  
+  .explore-section .text-wrapper-5 {
+    color: #cbcbcb;
+  }
+  
+  .explore-section .frame-wrapper {
+    height: 512px;
+    left: 0;
+    overflow: hidden;
+    overflow-x: scroll;
+    position: absolute;
+    top: 75px;
+    width: 1273px;
+  }
+  
+  .explore-section .frame-wrapper::-webkit-scrollbar {
+    display: none;
+    width: 0;
+  }
+  
+  .explore-section .frame-8 {
+    height: 512px;
+    left: 74px;
+    position: relative;
+    width: 2000px;
+  }
+  
+  .explore-section .exp {
+    background-color: var(--applecomblack);
+    border-radius: 32px;
+    height: 512px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 440px;
+  }
+  
+  .explore-section .text-wrapper-6 {
+    color: var(--applecomjumbo);
+    font-family: var(--apple-com-SF-pro-text-bold-14-upper-font-family);
+    font-size: var(--apple-com-SF-pro-text-bold-14-upper-font-size);
+    font-style: var(--apple-com-SF-pro-text-bold-14-upper-font-style);
+    font-weight: var(--apple-com-SF-pro-text-bold-14-upper-font-weight);
+    height: 18px;
+    left: 508px;
+    letter-spacing: var(--apple-com-SF-pro-text-bold-14-upper-letter-spacing);
+    line-height: var(--apple-com-SF-pro-text-bold-14-upper-line-height);
+    position: absolute;
+    top: 35px;
+    white-space: nowrap;
+    width: 112px;
+  }
+  
+  .explore-section .image-removebg {
+    height: 279px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 233px;
+    width: 372px;
+  }
+  
+  .explore-section .text-wrapper-7 {
+    color: var(--applecomjumbo);
+    font-family: var(--apple-com-SF-pro-text-semibold-17-font-family);
+    font-size: var(--apple-com-SF-pro-text-semibold-17-font-size);
+    font-style: var(--apple-com-SF-pro-text-semibold-17-font-style);
+    font-weight: var(--apple-com-SF-pro-text-semibold-17-font-weight);
+    height: 21px;
+    left: 508px;
+    letter-spacing: var(--apple-com-SF-pro-text-semibold-17-letter-spacing);
+    line-height: var(--apple-com-SF-pro-text-semibold-17-line-height);
+    position: absolute;
+    top: 532px;
+    white-space: nowrap;
+    width: 155px;
+  }
+  
+  .explore-section .p {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 132px;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    width: 325px;
+  }
+  
+  .explore-section .checkout-2 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    height: 22px;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 176px;
+    white-space: nowrap;
+  }
+  
+  .explore-section .exp-2 {
+    background-color: var(--applecomblack);
+    border-radius: 32px;
+    height: 512px;
+    left: 461px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 440px;
+  }
+  
+  .explore-section .img {
+    height: 278px;
+    left: 41px;
+    object-fit: cover;
+    position: absolute;
+    top: 234px;
+    width: 357px;
+  }
+  
+  .explore-section .exp-3 {
+    background-color: var(--applecomblack);
+    border-radius: 32px;
+    height: 512px;
+    left: 922px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 440px;
+  }
+  
+  .explore-section .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 88px;
+    left: 41px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    width: 325px;
+  }
+  
+  .explore-section .overlap-group-2 {
+    height: 372px;
+    left: 40px;
+    position: absolute;
+    top: 140px;
+    width: 360px;
+  }
+  
+  .explore-section .checkout-3 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    height: 22px;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .explore-section .image-removebg-2 {
+    height: 360px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 12px;
+    width: 360px;
+  }
+  
+  .explore-section .exp-4 {
+    background-color: var(--applecomblack);
+    border-radius: 32px;
+    height: 512px;
+    left: 1383px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 440px;
+  }
+  
+  .explore-section .image-removebg-3 {
+    height: 326px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: 158px;
+    width: 434px;
+  }
+  
+  .explore-section .checkout-4 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    height: 22px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 136px;
+    white-space: nowrap;
+  }
+  

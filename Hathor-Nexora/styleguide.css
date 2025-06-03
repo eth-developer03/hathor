@@ -1,0 +1,18 @@
+:root {
+    --apple-com-SF-pro-text-bold-14-upper-font-family: "SF Pro Text", Helvetica;
+    --apple-com-SF-pro-text-bold-14-upper-font-size: 14px;
+    --apple-com-SF-pro-text-bold-14-upper-font-style: normal;
+    --apple-com-SF-pro-text-bold-14-upper-font-weight: 700;
+    --apple-com-SF-pro-text-bold-14-upper-letter-spacing: -0.2240000069141388px;
+    --apple-com-SF-pro-text-bold-14-upper-line-height: 18px;
+    --apple-com-SF-pro-text-semibold-17-font-family: "SF Pro Text", Helvetica;
+    --apple-com-SF-pro-text-semibold-17-font-size: 17px;
+    --apple-com-SF-pro-text-semibold-17-font-style: normal;
+    --apple-com-SF-pro-text-semibold-17-font-weight: 400;
+    --apple-com-SF-pro-text-semibold-17-letter-spacing: -0.37400001287460327px;
+    --apple-com-SF-pro-text-semibold-17-line-height: 21px;
+    --applecomblack: rgba(0, 0, 0, 1);
+    --applecomjumbo: rgba(134, 134, 139, 1);
+    --applecomshark-70: rgba(29, 29, 31, 0.7);
+  }
+  

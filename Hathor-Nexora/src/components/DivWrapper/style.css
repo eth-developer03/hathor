@@ -1,0 +1,40 @@
+.div-wrapper {
+  height: 638px;
+  width: 1055px;
+}
+
+.div-wrapper .overlap-group-4 {
+  height: 638px;
+  position: relative;
+}
+
+.div-wrapper .rectangle-19 {
+  background-color: #cccccccc;
+  border-radius: 32px;
+  height: 486px;
+  left: 0;
+  position: absolute;
+  top: 76px;
+  width: 350px;
+}
+
+.div-wrapper .rectangle-20 {
+  background-color: #cccccccc;
+  border-radius: 32px;
+  height: 486px;
+  left: 705px;
+  position: absolute;
+  top: 76px;
+  width: 350px;
+}
+
+.div-wrapper .rectangle-21 {
+  background-color: #ffffff;
+  border-radius: 32px;
+  box-shadow: 0px 0px 15.1px 17px #00000040;
+  height: 638px;
+  left: 310px;
+  position: absolute;
+  top: 0;
+  width: 434px;
+}

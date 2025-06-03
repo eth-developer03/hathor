@@ -1,0 +1,16 @@
+.landing-page {
+    background-color: #161617;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page .div-2 {
+    background-color: #161617;
+    height: 5487px;
+    overflow: hidden;
+    position: relative;
+    width: 1273px;
+  }
+  
