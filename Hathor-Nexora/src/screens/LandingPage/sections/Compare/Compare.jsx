@@ -1,15 +1,7 @@
 import React from "react";
-import "./style.css"; // Ensure this CSS file is in the same directory or update path
+import "./style.css";
 
 export const Compare = () => {
-  const handleLaunchAI1 = () => {
-    window.location.href = "http://localhost:8501"; // Link for Content Generation AI
-  };
-
-  const handleLaunchAI2 = () => {
-    window.location.href = "http://localhost:8502"; // Link for Project Management AI
-  };
-
   return (
     <div className="compare">
       <p className="make-smarter-choices">
@@ -17,15 +9,16 @@ export const Compare = () => {
         features, prices, and reviews—instantly.
       </p>
 
-      {/* AI Model 1: Content Generation AI */}
       <div className="comp-box">
-        <div className="text-wrapper-9">Content-Generation-AI</div>
+        <div className="text-wrapper-9">AI Model 1</div>
+
         <div className="checkout-5">Select a product</div>
 
-        {/* This entire div is now clickable */}
-        <div className="overlap-group-3" onClick={handleLaunchAI1}>
+        <div className="overlap-group-3">
           <div className="checkout-6">Some Specifications</div>
+
           <p className="checkout-7">
+            <br />
             Category: Content Generation
             <br />
             Price: $0.03/task • Free Demo Available
@@ -35,82 +28,74 @@ export const Compare = () => {
             Provider: @CreatiBots
             <br />
             Description:
-            <br />
-            CopyCraft Pro is a fine-tuned GPT-based AI agent built for
+            <br /> CopyCraft Pro is a fine-tuned GPT-based AI agent built for
             high-quality, SEO-optimized copywriting. Ideal for blogs, social
             media posts, email campaigns, and ad copy. It supports multiple
             tones and languages.
             <br />
+            Key Features:
             <br />
-            <strong>Key Features:</strong>
+            Custom tone adaptation (professional, casual, witty)
             <br />
-            • Custom tone adaptation (professional, casual, witty)
+            Language translation &amp; localization
             <br />
-            • Language translation & localization
+            Keyword optimization &amp; readability checks
             <br />
-            • Keyword optimization & readability checks
+            Sentiment-aware prompt handling
             <br />
-            • Sentiment-aware prompt handling
+            Try Before You Buy: ✅ Demo up to 3 tasks per day
             <br />
-            • Try Before You Buy: ✅ Demo up to 3 tasks/day
+            Token Reputation Score: 🟢 92% positive feedback
             <br />
-            • Token Reputation Score: 🟢 92% positive feedback
-            <br />
-            • Ownership Status: 8/10 fractional shares available
+            Ownership Status: 8/10 fractional shares available for resale
           </p>
         </div>
       </div>
 
-      {/* AI Model 2: Project Management AI */}
       <div className="comp-box-2">
-        <div className="text-wrapper-9">Project-Management-AI</div>
+        <div className="text-wrapper-9">AI Model 2</div>
+
         <div className="checkout-5">Select a product</div>
 
-        {/* This entire div is now clickable */}
-        <div className="overlap" onClick={handleLaunchAI2}>
+        <div className="overlap">
           <div className="checkout-8">Some Specifications</div>
+
           <p className="checkout-7">
-            Category: Project Management & Productivity
             <br />
-            Price: $25/user/month • 14-day Free Trial
+            Category: Business &amp; Startup Tools
             <br />
-            Rating: ⭐ 4.7 (210 reviews)
+            Price: $0.07/task • Free Demo Available
             <br />
-            Provider: @TaskMasterAI
+            Rating: ⭐ 4.9 (185 reviews)
+            <br />
+            Provider: @StartUpWiz
             <br />
             Description:
+            <br /> PitchBot 3000 is an AI powerhouse designed to generate pitch
+            decks and elevator pitches tailored for startup fundraising. It
+            analyzes your business concept and crafts VC-friendly presentations,
+            market insights, and even anticipates investor questions.
             <br />
-            TaskMaster AI is an intelligent project management assistant
-            designed to streamline workflows, automate task allocation, and
-            provide predictive insights for project success. It helps teams
-            plan, track, and deliver projects efficiently.
+            Key Features:
             <br />
+            Dynamic 10-slide pitch deck creation
             <br />
-            <strong>Key Features:</strong>
+            Market size and competitor benchmarking
             <br />
-            • AI-powered task scheduling and prioritization
+            Elevator pitch generator with storytelling flair
             <br />
-            • Automated progress tracking and reporting
+            Investor Q&amp;A prediction module
             <br />
-            • Resource allocation and workload balancing
+            Style-matching for YC, Sequoia, or angel rounds
             <br />
-            • Risk prediction and mitigation suggestions
+            Try Before You Buy: ✅ Demo 1 pitch deck per week
             <br />
-            • Intelligent meeting summarization & action item generation
+            Token Reputation Score: 🟢 95% founder approval
             <br />
-            • Integration with popular tools (Slack, Jira, Google Workspace)
-            <br />
-            • Try Before You Buy: ✅ Full-featured 14-day trial
-            <br />
-            • Token Reputation Score: 🟢 90% team adoption rate
-            <br />
-            • Ownership Status: Enterprise & Team plans available
+            Ownership Status: 5/10 fractional shares available
           </p>
         </div>
       </div>
     </div>
   );
 };
-
-// If you are not using default export, you might export it like this:
-// export default Compare;
